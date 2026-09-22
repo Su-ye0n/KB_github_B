@@ -1,5 +1,5 @@
 from functions.balance_status import balance_status
-from functions.exchange import exchange_money
+from functions.exchange_money import exchange_money
 from functions.withdraw import withdraw
 
 
